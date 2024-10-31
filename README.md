@@ -1,4 +1,4 @@
-## Perceptronix
+## Monocular Imaging for Depth Analysis and Spatial Perception (Mi-DASP) 
 
 This was our hackathon project where we had to calculate distance using the monocular depth estimation technique, we used depth estimation maps to get the depth of the various features in a 2D image, using MiDas Machine Learning Model and some custom mathematics to calculate rough distances of the features from the camera module.
 
